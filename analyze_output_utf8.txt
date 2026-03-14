@@ -1,0 +1,14 @@
+﻿Analyzing herody_todo_app...                                    
+
+warning - The value of the local variable 'credential' isn't used - lib\presentation\providers\auth_provider.dart:42:13 - unused_local_variable
+warning - The value of the local variable 'credential' isn't used - lib\presentation\providers\auth_provider.dart:73:13 - unused_local_variable
+warning - The value of the field '_userId' isn't used - lib\presentation\providers\task_provider.dart:13:11 - unused_field
+   info - Unnecessary use of multiple underscores - lib\presentation\screens\add_edit_task_screen.dart:153:42 - unnecessary_underscores
+   info - Unnecessary use of multiple underscores - lib\presentation\screens\add_edit_task_screen.dart:268:44 - unnecessary_underscores
+   info - Statements in an if should be enclosed in a block - lib\presentation\screens\add_edit_task_screen.dart:270:31 - curly_braces_in_flow_control_structures
+   info - Unnecessary use of multiple underscores - lib\presentation\screens\add_edit_task_screen.dart:313:44 - unnecessary_underscores
+   info - Unnecessary use of multiple underscores - lib\presentation\screens\login_screen.dart:222:48 - unnecessary_underscores
+   info - Unnecessary use of multiple underscores - lib\presentation\screens\login_screen.dart:226:48 - unnecessary_underscores
+   info - Unnecessary use of multiple underscores - lib\presentation\screens\register_screen.dart:236:48 - unnecessary_underscores
+   info - Unnecessary use of multiple underscores - lib\presentation\screens\register_screen.dart:239:48 - unnecessary_underscores
+
